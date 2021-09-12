@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"moe.kawayi.org.utopia.client.main.desktop","c":"DesktopLauncher","l":"DesktopLauncher()","u":"%3Cinit%3E()"},{"p":"moe.kawayi.org.utopia.client.main.desktop","c":"DesktopLauncher","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
