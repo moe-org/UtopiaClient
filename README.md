@@ -19,7 +19,7 @@
     <!------------------------>
     <br>
     <!------------------------>
-    <img alt="GitHub" src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=for-the-badge" />
+    <img alt="Commitizen Friendly" src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=for-the-badge" />
     <!------------------------>
     <br>
     <!------------------------>
